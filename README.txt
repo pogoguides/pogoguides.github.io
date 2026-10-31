@@ -1,1 +1,0 @@
-Upload the contents of this ZIP (not the ZIP itself) to the root of your GitHub Pages repository. Set Pages to deploy from main / root. The website contains 100 articles and a homepage listing every article. The external login assistance button is independent and not the official Pogo Games login.
